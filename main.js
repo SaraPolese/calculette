@@ -13,7 +13,7 @@ function num1num2(){
     document.getElementById("resultmulti").innerHTML= multi;
     document.getElementById("resultdiv").innerHTML= div;
   }
-// euxieme calculatrice
+// deuxieme calculatrice
   function goadd (){
     let num1= document.getElementById("numero1").value;
     let num2= document.getElementById("numero2").value;
